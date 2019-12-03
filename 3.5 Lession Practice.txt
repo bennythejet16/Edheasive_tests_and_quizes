@@ -1,0 +1,13 @@
+3.5 Lesson Practice
+
+1) A
+
+2) B
+
+3) C
+
+4) E
+
+5) There is an error, the else should be after the elif
+
+6) 3
