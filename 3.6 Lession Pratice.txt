@@ -1,0 +1,13 @@
+Lesson Pratice 3.6
+
+1) Have clear instructions 
+
+   Have An Order
+   
+   Operations That Can Be Done By A Computer
+
+   Stop In A Finite Amount Of Time
+
+2) Make Decisions About What Algorithm To Use
+   
+   Predict Performance
