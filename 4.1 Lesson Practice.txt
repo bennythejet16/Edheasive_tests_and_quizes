@@ -1,0 +1,7 @@
+4.1 Lesson Practice
+
+1) Repeat Blocks Of Code
+
+2) The Line Num = Int(Input("Enter A Number, Negative To Stop")) Should Be Indented So It is Inside The Loop
+
+
