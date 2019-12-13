@@ -1,0 +1,27 @@
+Quiz 4 
+
+1) Initializing
+
+2) X
+
+3) Used to find remainders
+
+4) The [C = C - 1]is not inside the loop. This will cause the loop not to stop.
+
+5) Repeat
+
+6) 1
+   4
+   3
+   5
+   2
+
+7) 3
+   6
+
+8) Beacuse of efficiency.
+
+9) Indented
+
+10) User Input 
+    Count Variables
